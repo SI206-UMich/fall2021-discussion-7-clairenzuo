@@ -2,6 +2,8 @@ import re
 import os
 import unittest
 
+#Claire Zuo 72712801
+
 def read_file(filename):
     """ Return a list of the lines in the file with the passed filename """
     
